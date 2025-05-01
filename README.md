@@ -1,5 +1,5 @@
 ![Trusted](https://img.shields.io/badge/Trusted-100%25-lightgrey?style=plastic&labelColor=lightgrey&color=grey) ![Downloads](https://img.shields.io/badge/Downloads-1M%2B-lightgrey?style=plastic&labelColor=lightgrey&color=grey) ![Release](https://img.shields.io/badge/Release-2025-orange?style=plastic&labelColor=lightgrey&color=orange)  
-<a href="https://github.com/Lumion-12/Revit2025DesignGuide/watchers"><img src="https://img.shields.io/github/watchers/Lumion-12/Revit2025DesignGuide?style=social&label=Watch"></a>
+ 
 
 # 🏬 Revit 2025 Design Guide
 
